@@ -1,16 +1,16 @@
 {
   "name": "notion-next",
   "version": "4.0.12",
-  "homepage": "https://github.com/tangly1024/NotionNext.git",
+  "homepage": "https://github.com/Justin1107-good/NotionNext.git",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/tangly1024/NotionNext.git"
+    "url": "https://github.com/Justin1107-good/NotionNext.git"
   },
   "author": {
-    "name": "tangly",
-    "email": "mail@tangly1024.com",
-    "url": "http://tangly1024.com"
+    "name": "wangjin",
+    "email": "wj11074@outlook.com",
+    "url": "https://justin07.cn"
   },
   "scripts": {
     "dev": "next dev",
